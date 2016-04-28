@@ -1,0 +1,8 @@
+EX06_01: Great work
+EX06_02: Nice
+EX06_03: Didn't implement the vector. This should be like the Stack class in the text book. 
+		 There is a template class and functions that are implemented.
+EX06_04: Good work
+
+Extra Credit
+EX06_05: None
